@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @DarkF4de
-- 👀 I’m interested in learning programming languages and coding projects of my own
-- 🌱 I’m currently learning python as a beginner
-- 📫 You could reach me by adding darkf4de on discord
+Aspiring Software Engineer passionate about learning how systems work under the hood.
 
-<!---
-DarkF4de/DarkF4de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently focused on:
+- Writing Python programs, such as CLI tools
+- Studying computer networking fundamentals, including core functions and topologies
+- Gaining hands-on experience with Bash and Unix-based operating systems (Linux)
