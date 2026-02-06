@@ -1,6 +1,19 @@
-Aspiring Software Engineer passionate about learning how systems work under the hood.
+# Hi, I'm DarkF4de 👋
 
-Currently focused on:
-- Writing Python programs, such as CLI tools
-- Studying computer networking fundamentals, including core functions and topologies
-- Gaining hands-on experience with Bash and Unix-based operating systems (Linux)
+**High school student** passionate about understanding how computer systems work from the ground up.
+
+~Currently Learning
+- **Python development** - Building CLI tools and utilities
+- **Computer networking** - TCP/IP architecture, subnetting, routing protocols
+- **Linux/Unix** - Bash scripting and system administration
+- **Low-level programming** - Understanding how software interacts with hardware
+
+~Interests
+- Networking fundamentals and protocols
+- System-level programming
+- Automation and scripting
+- Open source development
+
+---
+
+*Building things to learn how they work.*
